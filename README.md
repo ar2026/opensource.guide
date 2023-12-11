@@ -52,7 +52,7 @@ While we've got advice about running an open source project, we're not lawyers. 
 [24]:https://github.com/orta
 [25]:https://github.com/parkr
 [26]:https://github.com/shazow
-[27]:https://github.com/steveklabnik
+    [27]:https://github.com/steveklabnik
 [28]:https://github.com/wooorm
 [29]:https://github.com/sophshep
 [30]:https://github.com/jeejkang
